@@ -18,4 +18,21 @@ zwykły tekst
 
 ![Zdjęcie...](https://wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2@1.5x.png)
 
+Znajomość języków programowania, aplikacji i technologii:
+  - HTML & CSS
+  - JavaScript
+  - C#
+  - SQL
+
+  - Microsoft Azure
+  - GitHub
+  - Visual Studio
+  - Xampp
+
+Testowane aplikacje internetowe:
+ - [SklepTest.pl](https://skleptest.pl)
+ - [Delikont.pl](https://delikont.pl)
+
+Zgłoszone błędy:
+
 
