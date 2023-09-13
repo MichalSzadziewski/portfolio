@@ -1,22 +1,12 @@
-# portfolio
+# Moje portfolio
 
-# header1
-## header2
-#### header4
+Nazywam się Michał Szadziewski i posiadam tytuł Technika Informatyka. Aktualnie studiuję......
+
 
 ## Moje kursy i szkolenia
-  - Kurs 1
-    - Certyfikat 1
-    - Certyfikat 2
-  - Kurs 2
-1. jeden
-2. dwa
+  - EE.08 (Montaż i eksploatacja systemów komputerowych, urządzeń peryferyjnych i sieci)
+  - EE.09 
 
-zwykły tekst
-
-[Przejdź do wikipedii...](https://www.wikipedia.org)
-
-![Zdjęcie...](https://wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2@1.5x.png)
 
 Znajomość języków programowania, aplikacji i technologii:
   - HTML & CSS
@@ -35,8 +25,8 @@ Testowane aplikacje internetowe:
 
 Zgłoszone błędy:
   - Skleptest.pl :
-    - ![ZdjęcieSklepTest1]([MichalSzadziewski/portfolio/Bug Reports/Pasted Graphic 1.png](https://github.com/MichalSzadziewski/portfolio/blob/main/Bug%20Reports/Pasted%20Graphic%201.png))
-    - [ZdjęcieSklepTest2](https://github.com/MichalSzadziewski/portfolio/blob/main/Bug%20Reports/Pasted%20Graphic%202.png)
+    - ![ZdjęcieSklepTest1](https://github.com/MichalSzadziewski/portfolio/blob/main/Bug%20Reports/Pasted%20Graphic%201.png)
+    - ![ZdjęcieSklepTest2](https://github.com/MichalSzadziewski/portfolio/blob/main/Bug%20Reports/Pasted%20Graphic%202.png)
   - Delikont.pl :
     - ![ZdjęcieDelikont1]()
     - ![ZdjęcieDelikont2]()
