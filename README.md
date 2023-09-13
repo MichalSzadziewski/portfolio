@@ -15,3 +15,7 @@
 zwykły tekst
 
 [Przejdź do wikipedii...](https://www.wikipedia.org)
+
+![Zdjęcie...](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wikipedia-logo-v2-wordmark.svg/1200px-Wikipedia-logo-v2-wordmark.svg.png)
+
+
