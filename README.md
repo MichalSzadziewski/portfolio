@@ -34,5 +34,12 @@ Testowane aplikacje internetowe:
  - [Delikont.pl](https://delikont.pl)
 
 Zgłoszone błędy:
-
+  - Skleptest.pl :
+    - ![ZdjęcieSklepTest1]()
+    - ![ZdjęcieSklepTest2]()
+  - Delikont.pl :
+    - ![ZdjęcieDelikont1]()
+    - ![ZdjęcieDelikont2]()
+    - ![ZdjęcieDelikont3]()
+    - ![ZdjęcieDelikont4]()
 
