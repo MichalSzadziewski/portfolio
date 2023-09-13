@@ -14,4 +14,4 @@
 
 zwykły tekst
 
-[Link ]
+[Przejdź do wikipedii...](https://www.wikipedia.org)
