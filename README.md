@@ -35,8 +35,8 @@ Testowane aplikacje internetowe:
 
 Zgłoszone błędy:
   - Skleptest.pl :
-    - ![ZdjęcieSklepTest1](MichalSzadziewski/portfolio/Bug Reports/Pasted Graphic 1.png)
-    - ![ZdjęcieSklepTest2]()
+    - ![ZdjęcieSklepTest1]([MichalSzadziewski/portfolio/Bug Reports/Pasted Graphic 1.png](https://github.com/MichalSzadziewski/portfolio/blob/main/Bug%20Reports/Pasted%20Graphic%201.png))
+    - [ZdjęcieSklepTest2](https://github.com/MichalSzadziewski/portfolio/blob/main/Bug%20Reports/Pasted%20Graphic%202.png)
   - Delikont.pl :
     - ![ZdjęcieDelikont1]()
     - ![ZdjęcieDelikont2]()
